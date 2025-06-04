@@ -12,9 +12,8 @@
       <br/>
       <sub><i>Tech Stack: React, Node.js, Redis, PostgreSQL </i></sub>
     </td>
-  </tr>
+    
 
-    <tr>
     <td align="center" width="100%">
       <a href="https://github.com/EvinB/streamly">
         <img src="https://github.com/EvinB/EvinB/blob/main/Streamly.png" width="100%" />
@@ -25,4 +24,5 @@
       <sub><i>Tech Stack: Ruby, Rails, HTML, CSS, Javascript</i></sub>
     </td>
   </tr>
+ 
 </table>
