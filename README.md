@@ -23,13 +23,13 @@
 </td>
 </td>
 <td align="center" width="33.3%">
-  <a href="https://github.com/EvinB/WirelessPong">
+  <a href="https://github.com/EvinB/ToxicCommentClassification">
     <img src="https://github.com/EvinB/EvinB/blob/main/wirelessPong.png" width="100%" />
     <br />
-    <strong>Wireless Two Player Pong</strong>
+    <strong>Toxic Comment Classification</strong>
   </a>
   <br/>
-  <sub><i>Tech Stack: C++ </i></sub>
+  <sub><i>Tech Stack: Python, PyTorch, Hugging Face, scikit-learn </i></sub>
 </td>
 </tr>
 
@@ -43,6 +43,16 @@
     <br/>
     <sub><i>Tech Stack: C </i></sub>
   </td>
+  
+  <td align="center" width="33.3%">
+  <a href="https://github.com/EvinB/WirelessPong">
+    <img src="https://github.com/EvinB/EvinB/blob/main/wirelessPong.png" width="100%" />
+    <br />
+    <strong>Wireless Two Player Pong</strong>
+  </a>
+  <br/>
+  <sub><i>Tech Stack: C++ </i></sub>
+</td>
 
 </tr>
 </table>
