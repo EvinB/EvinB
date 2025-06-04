@@ -15,7 +15,7 @@
     
     <td align="center" width="50%">
       <a href="https://github.com/EvinB/projectdirectory-selt_2024_team_008">
-        <img src="https://github.com/EvinB/EvinB/blob/main/ShardsGrid.png" width="100%" />
+        <img src="https://github.com/EvinB/EvinB/blob/main/Streamly.png" width="100%" />
         <br />
         <strong>Shards of the Grid</strong>
       </a>
