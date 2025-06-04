@@ -36,7 +36,7 @@
 <tr>
   <td align="center" width="33.3%">
     <a href="https://github.com/EvinB/FanController">
-      <img src="https://github.com/EvinB/EvinB/blob/main/wirelessPong.png" width="100%" />
+      <img src="https://github.com/EvinB/EvinB/blob/main/FanController.png" width="100%" />
       <br />
       <strong>PWM Controller</strong>
     </a>
