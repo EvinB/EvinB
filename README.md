@@ -24,7 +24,7 @@
 </td>
 <td align="center" width="33.3%">
   <a href="https://github.com/EvinB/ToxicCommentClassification">
-    <img src="https://github.com/EvinB/EvinB/blob/main/LLMProj.png" width="100%" />
+    <img src="https://github.com/EvinB/EvinB/blob/main/llmproj.png" width="100%" />
     <br />
     <strong>Toxic Comment Classification</strong>
   </a>
