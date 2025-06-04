@@ -32,5 +32,18 @@
   <sub><i>Tech Stack: C++ </i></sub>
 </td>
 </tr>
+
+<tr>
+  <td align="center" width="33.3%">
+    <a href="https://github.com/EvinB/FanController">
+      <img src="https://github.com/EvinB/EvinB/blob/main/wirelessPong.png" width="100%" />
+      <br />
+      <strong>PWM Controller</strong>
+    </a>
+    <br/>
+    <sub><i>Tech Stack: C </i></sub>
+  </td>
+
+</tr>
 </table>
 
