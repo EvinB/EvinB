@@ -21,6 +21,16 @@
   <br/>
   <sub><i>Tech Stack: Ruby, Rails, HTML, CSS, JavaScript</i></sub>
 </td>
+</td>
+<td align="center" width="50%">
+  <a href="https://github.com/EvinB/WirelessPong">
+    <img src="https://github.com/EvinB/EvinB/blob/main/shardsOfTheGrid.png" width="100%" />
+    <br />
+    <strong>Wireless Two Player Pong</strong>
+  </a>
+  <br/>
+  <sub><i>Tech Stack: C++ </i></sub>
+</td>
 </tr>
 </table>
 
