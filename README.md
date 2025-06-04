@@ -24,7 +24,7 @@
 </td>
 <td align="center" width="33.3%">
   <a href="https://github.com/EvinB/WirelessPong">
-    <img src="https://github.com/EvinB/EvinB/blob/main/shardsOfTheGrid.png" width="100%" />
+    <img src="https://github.com/EvinB/EvinB/blob/main/wirelessPong.png" width="100%" />
     <br />
     <strong>Wireless Two Player Pong</strong>
   </a>
