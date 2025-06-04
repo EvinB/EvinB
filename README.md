@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td align="center" width="100%">
+    <td align="center" width="50%">
       <a href="https://github.com/EvinB/streamly">
         <img src="https://your-image-host.com/your-image.png" width="100%" />
         <img src="https://github.com/EvinB/EvinB/blob/main/Streamly.png" width="100%" />
