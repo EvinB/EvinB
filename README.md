@@ -21,6 +21,7 @@
   </a>
   <br/>
   <sub><i>Ruby, Rails, HTML, CSS, JavaScript</i></sub>
+  <sub>SaaS web game built with Rails where users earn Shards to expand territory and progress across persistent multiplayer sessions.</sub>
 </td>
 </td>
 <td align="center" width="33.3%">
