@@ -11,6 +11,7 @@
   </a>
   <br/>
   <sub><i>React, Node.js, Redis, PostgreSQL</i></sub>
+  <sub>Hackathon project that streamlines cross-platform content discovery by aggregating Netflix, Hulu, and Amazon titles into a searchable, filterable React app.</sub>
 </td>
 <td align="center" width="33.3%">
   <a href="https://github.com/EvinB/projectdirectory-selt_2024_team_008">
