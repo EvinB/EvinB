@@ -56,7 +56,7 @@
 
   <td align="center" width="33.3%">
   <a href="https://github.com/EvinB/Lan-Mystery-Game">
-    <img src="https://github.com/EvinB/EvinB/blob/main/mysteryGame.png" width="100%" />
+    <img src="https://github.com/EvinB/EvinB/blob/main/MysteryGame.png" width="100%" />
     <br />
     <strong> Mystery Game </strong>
   </a>
