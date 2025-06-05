@@ -67,6 +67,7 @@
   </a>
   <br/>
   <sub><i> Java </i></sub>
+  <sub>Java-based LAN multiplayer mystery game with live chat, turn-based mechanics, and shared game state.</sub>
 </td>
 
 </tr>
