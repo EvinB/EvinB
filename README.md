@@ -30,8 +30,7 @@
   </a>
   <br/>
   <sub><i>Python, PyTorch, Hugging Face, scikit-learn </i></sub>
-  <sub>Built and evaluated multiple models for multi-label toxic comment classification, ranging from custom LSTMs to fine-tuned transformer-based architectures. Achieved strong macro F1 performance on the Jigsaw dataset through iterative training and evaluation.
-</sub>
+  <sub>Built and evaluated multiple models for multi-label toxic comment classification, ranging from custom LSTMs to fine-tuned transformer-based architectures. </sub>
 </td>
 </tr>
 
