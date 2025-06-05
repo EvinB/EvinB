@@ -56,7 +56,7 @@
   </a>
   <br/>
   <sub><i> C++ </i></sub>
-    <sub>Multiplayer Pong game using three ATmega328P-based Arduinos: two for wireless controllers and one to render gameplay on an OLED display. Communication handled via RF modules.</sub>
+  <sub>Multiplayer Pong game using three ATmega328P-based Arduinos: two for wireless controllers and one to render gameplay on an OLED display. Communication handled via RF modules.</sub>
 </td>
 
   <td align="center" width="33.3%">
