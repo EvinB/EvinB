@@ -45,6 +45,7 @@
     </a>
     <br/>
     <sub><i>C </i></sub>
+    <sub>Embedded fan control system using phase-correct PWM and tachometer feedback on an ATmega328. Features adjustable duty cycle via RPG, RPM display on LCD, and buzzer-based stall detection.</sub>
   </td>
   
   <td align="center" width="33.3%">
