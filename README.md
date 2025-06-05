@@ -10,7 +10,7 @@
     <strong>Streamly</strong>
   </a>
   <br/>
-  <sub><i>Tech Stack: React, Node.js, Redis, PostgreSQL</i></sub>
+  <sub><i>React, Node.js, Redis, PostgreSQL</i></sub>
 </td>
 <td align="center" width="33.3%">
   <a href="https://github.com/EvinB/projectdirectory-selt_2024_team_008">
@@ -19,7 +19,7 @@
     <strong>Shards of the Grid</strong>
   </a>
   <br/>
-  <sub><i>Tech Stack: Ruby, Rails, HTML, CSS, JavaScript</i></sub>
+  <sub><i>Ruby, Rails, HTML, CSS, JavaScript</i></sub>
 </td>
 </td>
 <td align="center" width="33.3%">
@@ -29,7 +29,7 @@
     <strong>Toxic Comment Classification</strong>
   </a>
   <br/>
-  <sub><i>Tech Stack: Python, PyTorch, Hugging Face, scikit-learn </i></sub>
+  <sub><i>Python, PyTorch, Hugging Face, scikit-learn </i></sub>
 </td>
 </tr>
 
@@ -41,7 +41,7 @@
       <strong>PWM Controller</strong>
     </a>
     <br/>
-    <sub><i>Tech Stack: C </i></sub>
+    <sub><i>C </i></sub>
   </td>
   
   <td align="center" width="33.3%">
@@ -51,7 +51,17 @@
     <strong>Wireless Two Player Pong</strong>
   </a>
   <br/>
-  <sub><i>Tech Stack: C++ </i></sub>
+  <sub><i> C++ </i></sub>
+</td>
+
+  <td align="center" width="33.3%">
+  <a href="https://github.com/EvinB/Lan-Mystery-Game">
+    <img src="https://github.com/EvinB/EvinB/blob/main/mysteryGame.png" width="100%" />
+    <br />
+    <strong> Mystery Game </strong>
+  </a>
+  <br/>
+  <sub><i> Java </i></sub>
 </td>
 
 </tr>
