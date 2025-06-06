@@ -1,5 +1,6 @@
 ## Current Work: EasyPath
 I'm currently co-leading development of **EasyPath**, a full-stack SaaS platform focused on improving accessibility information.
+
 **Tech Stack** 
 - 🔧 ASP.NET Core (C#) backend
 - 🔐 Secure user authentication & role-based authorization
