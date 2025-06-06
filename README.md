@@ -1,3 +1,15 @@
+## Current Work: EasyPath
+I'm currently co-leading development of **EasyPath**, a full-stack SaaS platform focused on improving accessibility information.
+**Tech Stack** 
+🔧 ASP.NET Core (C#) backend
+🔐 Secure user authentication & role-based authorization
+🌐 React + Tailwind CSS frontend
+🧮 SQL Server with Azure cloud infrastructure
+
+While the codebase is private, my work spans backend architecture, authentication flows, cloud deployment, and front-end interface development.
+
+EasyPath is in active development and projected for release in early 2026.  
+🏆 [**View our early-stage award recognition here →**](https://engineering.uiowa.edu/news-all/2024/11/iowa-engineers-win-39500-iowa-innovation-challenge)
 
 ## Latest Projects
 
